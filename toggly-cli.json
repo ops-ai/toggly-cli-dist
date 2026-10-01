@@ -1,0 +1,21 @@
+{
+  "version": "0.4.0",
+  "description": "Command-line interface for Toggly feature flag management",
+  "homepage": "https://docs.toggly.io/sdks/cli",
+  "license": "MIT",
+  "url": "https://github.com/ops-ai/Toggly.FeatureManagement/releases/download/cli-v0.4.0/toggly-cli-windows-x64.zip",
+  "hash": "cf21197f583cde65c735bcb33e0cdd7a2926bab5e8497b03892883b3f806a1ba",
+  "bin": [
+    [
+      "toggly-cli.exe",
+      "toggly"
+    ]
+  ],
+  "checkver": {
+    "url": "https://github.com/ops-ai/Toggly.FeatureManagement/releases",
+    "regex": "cli-v([\\d.]+)"
+  },
+  "autoupdate": {
+    "url": "https://github.com/ops-ai/Toggly.FeatureManagement/releases/download/cli-v$version/toggly-cli-windows-x64.zip"
+  }
+}
