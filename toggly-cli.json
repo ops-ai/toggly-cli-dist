@@ -1,10 +1,15 @@
 {
-  "version": "0.4.0",
-  "description": "Command-line interface for Toggly feature flag management",
+  "version": "0.4.1",
+  "description": "Official Toggly CLI — manage feature flags, environments, and releases from your terminal or CI. Installs as 'toggly' on PATH.",
   "homepage": "https://docs.toggly.io/sdks/cli",
   "license": "MIT",
-  "url": "https://github.com/ops-ai/Toggly.FeatureManagement/releases/download/cli-v0.4.0/toggly-cli-windows-x64.zip",
-  "hash": "cf21197f583cde65c735bcb33e0cdd7a2926bab5e8497b03892883b3f806a1ba",
+  "notes": [
+    "Binary on PATH: toggly",
+    "Docs: https://docs.toggly.io/sdks/cli",
+    "Login: toggly auth login"
+  ],
+  "url": "https://github.com/ops-ai/Toggly.FeatureManagement/releases/download/cli-v0.4.1/toggly-cli-windows-x64.zip",
+  "hash": "a02adad96d1ae446fa866fd4312e4d396701ef092ac98ee97fb753353d7e7b87",
   "bin": [
     [
       "toggly-cli.exe",
