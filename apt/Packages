@@ -32,3 +32,41 @@ Description: Command-line interface for Toggly feature flag management.
  Manage applications, environments, features, and releases from the
  terminal or CI. See https://docs.toggly.io/sdks/cli for full docs.
 
+Package: toggly-cli
+Version: 0.4.1
+Architecture: arm64
+Maintainer: Opsai LLC <support@toggly.io>
+Installed-Size: 25608
+Filename: ./toggly-cli_0.4.1_arm64.deb
+Size: 10304814
+MD5sum: 75419a2c9526fc0656344fa8d497470d
+SHA1: afb181de211dfc8a34447997907e066889eea391
+SHA256: ce3456fddab4a230c801220fe94f84b0e64aab4976908683a0d18e37200a754d
+Section: utils
+Priority: optional
+Homepage: https://docs.toggly.io/sdks/cli
+Description: Official Toggly CLI — manage feature flags, environments, and releases
+ from your terminal or CI. Installs the `toggly` binary on PATH.
+ .
+ Device-code login for developers; client credentials for pipelines.
+ Docs: https://docs.toggly.io/sdks/cli
+
+Package: toggly-cli
+Version: 0.4.1
+Architecture: amd64
+Maintainer: Opsai LLC <support@toggly.io>
+Installed-Size: 25805
+Filename: ./toggly-cli_0.4.1_amd64.deb
+Size: 10813486
+MD5sum: a3894f2523139db15eeb07b19b508d40
+SHA1: b328807fb07a627d50906b707aa8d17640483979
+SHA256: 106125270237a1a856bee4bd9783936be0b0d083e35e15557537c8a0dfaf981f
+Section: utils
+Priority: optional
+Homepage: https://docs.toggly.io/sdks/cli
+Description: Official Toggly CLI — manage feature flags, environments, and releases
+ from your terminal or CI. Installs the `toggly` binary on PATH.
+ .
+ Device-code login for developers; client credentials for pipelines.
+ Docs: https://docs.toggly.io/sdks/cli
+
