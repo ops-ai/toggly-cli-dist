@@ -4,10 +4,10 @@ Architecture: arm64
 Maintainer: Opsai LLC <support@toggly.io>
 Installed-Size: 25608
 Filename: ./toggly-cli_0.4.0_arm64.deb
-Size: 10304770
-MD5sum: 7dcc9deadbb62671e643dd2ff4eedb19
-SHA1: 8976f78e93ed04fd96273226b5cbff649f9a8014
-SHA256: 3ba677938b698499ee57325aee648d3861c6d46779065dadfd0f100b3c0b7ebb
+Size: 10304772
+MD5sum: 0d60d06ceaf334c23b1f851d3330dba1
+SHA1: 26ef22f877879a136e727fcc69e79c13aec3d1c2
+SHA256: 9f9713ab33f941f0de069cc49c08e343e5b8f61253585c901e01f89e525f2093
 Section: utils
 Priority: optional
 Homepage: https://docs.toggly.io/sdks/cli
@@ -21,10 +21,10 @@ Architecture: amd64
 Maintainer: Opsai LLC <support@toggly.io>
 Installed-Size: 25805
 Filename: ./toggly-cli_0.4.0_amd64.deb
-Size: 10813444
-MD5sum: 4bd65e5f3d64396c32896fa6510b42dc
-SHA1: 45e3a3d4e045e4b7099bf1a9afdbc41a6f9ef144
-SHA256: 4c8dbcd1d5da70e15a6c37587c6dccf5189bbd4704ed1be7f04b99c623fd1849
+Size: 10813446
+MD5sum: 1dd9677244cdc503c404cf1f13221f31
+SHA1: 93d9efa099f189775025dfbefdac08928edc49d2
+SHA256: b68d6937b771604d5917f7232e325e007dc675511f656ce5976f5c1af328dff6
 Section: utils
 Priority: optional
 Homepage: https://docs.toggly.io/sdks/cli
